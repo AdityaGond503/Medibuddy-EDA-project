@@ -54,8 +54,8 @@ Both datasets were merged using a common identifier to perform holistic analysis
 
 ### 📈 1. BMI vs Insurance Charges
 
-![BMI vs Charges](<img width="822" height="582" alt="bmi" src="https://github.com/user-attachments/assets/5fcb1e73-9894-404c-82d8-5975319da494" />
-)
+![BMI vs Charges]
+<img width="822" height="582" alt="bmi" src="https://github.com/user-attachments/assets/5fcb1e73-9894-404c-82d8-5975319da494" />
 
 **Insight:**
 Individuals with **overweight and obese BMI categories incur significantly higher insurance charges**, making BMI a strong indicator of health risk.
@@ -65,8 +65,8 @@ Individuals with **overweight and obese BMI categories incur significantly highe
 
 ### 🚬 2. Smoking Status Impact on Claims
 
-![Smoker vs Non-Smoker](<img width="857" height="567" alt="smoker" src="https://github.com/user-attachments/assets/4abdcd66-2918-4e3f-a741-4ed8ede36ea7" />
-)
+![Smoker vs Non-Smoker]
+<img width="857" height="567" alt="smoker" src="https://github.com/user-attachments/assets/4abdcd66-2918-4e3f-a741-4ed8ede36ea7" />
 
 **Insight:**
 Smokers consistently show **much higher insurance claim amounts** compared to non-smokers.
@@ -76,8 +76,8 @@ Smokers consistently show **much higher insurance claim amounts** compared to no
 
 ### 🎂 3. Age Group vs Average Insurance Charges
 
-![Age Group Analysis](<img width="866" height="563" alt="age" src="https://github.com/user-attachments/assets/c9529071-ae5a-4adf-92f0-3108cf1da58b" />
-)
+![Age Group Analysis]
+<img width="866" height="563" alt="age" src="https://github.com/user-attachments/assets/c9529071-ae5a-4adf-92f0-3108cf1da58b" />
 
 **Insight:**
 Insurance charges increase with age, especially after **45 years**, indicating higher medical risk.
